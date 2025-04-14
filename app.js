@@ -13,7 +13,3 @@ alert("Difference: " + diff);
 // Show the result
 alert("Sum: " + sum);
 
-
-
-
-
