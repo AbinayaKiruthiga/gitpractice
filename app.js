@@ -5,5 +5,15 @@ let num2 = parseFloat(prompt("Enter the second number:"));
 // Subtract the numbers
 let diff = num1 - num2;
 
+// Add the numbers
+let sum = num1 + num2;
 // Show the result
 alert("Difference: " + diff);
+
+// Show the result
+alert("Sum: " + sum);
+
+
+
+
+
