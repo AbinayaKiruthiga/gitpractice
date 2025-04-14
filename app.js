@@ -1,0 +1,9 @@
+// Take input from the user
+let num1 = parseFloat(prompt("Enter the first number:"));
+let num2 = parseFloat(prompt("Enter the second number:"));
+
+// Subtract the numbers
+let diff = num1 - num2;
+
+// Show the result
+alert("Difference: " + diff);
